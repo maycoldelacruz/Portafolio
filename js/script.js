@@ -15,7 +15,7 @@ window.onscroll =()=>{
             });
         };
     });
-    /** sticky navbar */
+    /** sticky navba r */
     let header = document.querySelector('header');
 
     header.classList.toggle('sticky',window.scrollY>100);
